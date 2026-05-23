@@ -1,0 +1,14 @@
+El uso responsable de la información en internet está directamente relacionado con la participación ciudadana,
+ porque cuando un ciudadano esta informado puede tomar mejores decisiones y aportar con argumentos sólidos en los 
+espacios de toma ya sean digitales o presenciales. 
+Difundir datos verificados evita la desinformación y fortalece la confianza en la comunidad. A su vez, la 
+participación ciudadana requiere respeto y colaboración, valores que también se reflejan en el trabajo técnico 
+con herramientas como lo es Git. 
+En Git, cada integrante debe documentar y organizar sus aportes con transparencia, lo que garantiza que el 
+proyecto avance de manera ordenada. Así como en la ciudadanía digital, en Git es fundamental reconocer y 
+respetar las contribuciones de los demás. 
+El mal uso de la información, ya sea en redes sociales o en un repositorio, puede generar conflictos, errores 
+o en los peores de los casos la pérdida de credibilidad. Por eso, la responsabilidad digital y la organización técnica 
+se complementan: ambas buscan construir confianza, fomentar la cooperación y lograr objetivos colectivos. 
+Para concluir, ser responsable con la información es la base para una participación ciudadana efectiva 
+y para un trabajo técnico exitoso en equipo.
