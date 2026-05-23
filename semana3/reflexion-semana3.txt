@@ -1,0 +1,8 @@
+Un registro de cambios en Git permite ver con precisión qué se modificó en cada momento y, 
+en caso de errores, recuperar versiones anteriores. Además, ayuda a identificar quién hizo 
+cada cambio y con qué propósito, lo que facilita el trabajo en equipo al combinar aportes 
+sin borrar el trabajo de los demás. Revisar el historial antes de avanzar con nuevas 
+funciones reduce el riesgo de perder información importante o sobrescribir cambios. 
+También hace más sencillo explicar decisiones técnicas y mantener orden en el proyecto, 
+lo que mejora la calidad del desarrollo al documentar cada paso. 
+En resumen, Git aporta control, seguridad y claridad al proceso de creación de software.

@@ -1,0 +1,10 @@
+Repositorio -> Un lugar donde se guarda el historial de algun proyecto que tengamos. 
+Especificamente en Git,un Repositorio contiene los archivos del proyecto, los cambios 
+que se han hecho en esos archivos y el registro de las versiones
+Commit   -> es "foto" del estado de los archivos en un Repositorio en un momento dado.
+Este guarda los cambios realizados, tambien incluye un mensaje descriptivo, permite volver
+a versiones anteriores y es la unidad basica de historial en Git
+Push ->     Es un comando que envia nuestros commit locales al repositorio remoto
+este toma todos los cambios que hemos guardados con commit, los sube al servidor remoto,
+por ejemplo al que estamos utilizando que es GitHub, y tambien nos permite que otras 
+personas vean nuestros trabajos y los descargen
