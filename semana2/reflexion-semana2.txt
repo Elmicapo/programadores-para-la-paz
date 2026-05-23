@@ -1,0 +1,8 @@
+Para un desarrollador, dominar la terminal es esencial porque esta le brinda un control directo sobre la estructura y organización de su proyecto.
+La terminal nos permite navegar entre carpetas, crear y eliminar archivos, así como ejecutar comandos que automatizan tareas repetitivas.
+Además, es la base para usar herramientas de control de versiones como Git, que se integran mejor desde la línea de comandos. Al trabajar
+en proyectos grandes, la terminal ofrece rapidez y eficiencia, ya que un solo comando puede reemplazar múltiples acciones en una interfaz 
+gráfica. También fomenta disciplina y orden, pues obliga al desarrollador a comprender la jerarquía de archivos y la lógica del sistema. 
+En entornos colaborativos, saber usar la terminal asegura que todos los integrantes puedan seguir procesos estandarizados. 
+En conclusión, la terminal no es solo una herramienta técnica, sino un recurso estratégico que potencia la productividad y la calidad del 
+desarrollo.

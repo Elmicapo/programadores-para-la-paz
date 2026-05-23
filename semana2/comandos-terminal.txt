@@ -1,0 +1,10 @@
+@Elmicapo ➜ /workspaces/programadores-para-la-paz (main) $ mkdir semana2
+@Elmicapo ➜ /workspaces/programadores-para-la-paz (main) $ cd semana2
+@Elmicapo ➜ /workspaces/programadores-para-la-paz/semana2 (main) $ touch preguntas-semana2.txt
+@Elmicapo ➜ /workspaces/programadores-para-la-paz/semana2 (main) $ touch reflexion-semana2.txt
+@Elmicapo ➜ /workspaces/programadores-para-la-paz/semana2 (main) $ touch comandos-terminal.txt
+@Elmicapo ➜ /workspaces/programadores-para-la-paz/semana2 (main) $ 
+ @Elmicapo ➜ ~ $ pwd
+/home/codespace
+@Elmicapo ➜ ~ $ ls
+java  n
