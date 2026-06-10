@@ -1,0 +1,11 @@
+La ruta POST /reporte recibe datos JSON en el cuerpo de la petición y responde con un objeto JSON que confirma el reporte recibido.
+En este ejemplo toma el valor de req.body.mensaje y devuelve:
+{
+  estado: "Reporte recibido",
+  mensaje: mensaje
+}
+
+En una aplicación comunitaria esta ruta podría servir para enviar avisos, reportes o sugerencias desde un formulario, por ejemplo:
+- un reporte de un evento comunitario,
+- una solicitud de ayuda,
+- un comentario o denuncia.

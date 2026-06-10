@@ -1,0 +1,12 @@
+Las APIs ayudan a  las comunidades porque permiten que la información circule de 
+manera clara, rápida y organizada. Gracias a ellas, los reportes y alertas se 
+estructuran en objetos con campos definidos como tipo, lugar, fecha y usuario, lo
+ que evita confusiones y facilita su almacenamiento en bases de datos. De esta forma, 
+ los datos pueden consultarse, filtrarse y responderse con eficiencia. Además, las 
+ APIs crean un lenguaje común entre diferentes aplicaciones y organizaciones, 
+ asegurando que todos reciban la misma información sin distorsiones. 
+ Esto es clave en situaciones de emergencia, donde una alerta generada por una app 
+ puede ser leída inmediatamente por otras. En consecuencia, las APIs fortalecen 
+ la comunicación comunitaria, promueven la coordinación institucional y hacen que
+  la participación ciudadana sea más efectiva. En resumen, son un puente tecnológico 
+  que convierte la información en un recurso útil, confiable y accesible para todos.

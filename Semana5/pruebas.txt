@@ -1,0 +1,3 @@
+GET / -> Muestra el mensaje "Servidor activo" en el navegador.
+GET /saludo -> Muestra el mensaje "Hola comunidad" en el navegador.
+GET /mensaje/juan -> Muestra el mensaje "Hola juan" usando el parámetro de ruta.
