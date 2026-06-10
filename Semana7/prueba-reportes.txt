@@ -1,0 +1,18 @@
+Para probar la ruta POST se envía un JSON como este:
+
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+Después, al consultar la ruta GET /reportes se obtiene la respuesta:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Esto ocurre porque el servidor guarda los reportes en memoria en el arreglo `reportes` y devuelve todos los reportes almacenados cuando se consulta GET /reportes.
