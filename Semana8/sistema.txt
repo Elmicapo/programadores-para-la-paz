@@ -1,0 +1,13 @@
+@Elmicapo ➜ /workspaces/programadores-para-la-paz/seguridad (main) $ uname -a
+Linux codespaces-11a144 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+
+uname -a: Este comando nos muestra la información detallada sobre el sistema operativo y el equipo donde lo estamos ejecutando
+
+@Elmicapo ➜ /workspaces/programadores-para-la-paz/seguridad (main) $ whoami
+codespace
+
+codespace: Este comando nos muestra el nombre del usuario con el que has iniciado sesión actualmente.
+
+Conocer la información del sistema es útil porque nos ayuda a saber qué tipo de servidor estamos usando, qué versión del sistema tiene y
+con qué usuario estamos trabajando. Esto nos facilita instalar programas compatibles, resolver errores más rápido y mantener el servidor
+seguro y funcionando sin problemas. Además, nos ayuda a  evitar cometer errores por no conocer las características del entorno donde estás trabajando.

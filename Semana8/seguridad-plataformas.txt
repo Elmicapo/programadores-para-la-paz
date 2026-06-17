@@ -1,0 +1,8 @@
+Utilizar contraseñas seguras y cambiarlas periódicamente.
+Mantener el sistema y las aplicaciones actualizadas.
+Realizar copias de seguridad (backups) de la información importante.
+Limitar los permisos de acceso según el rol de cada usuario.
+Capacitar a los usuarios para identificar correos, enlaces o archivos sospechosos.
+
+Estas prácticas ayudan a proteger la información y a reducir el riesgo de ataques o 
+pérdidas de datos en la plataforma.
