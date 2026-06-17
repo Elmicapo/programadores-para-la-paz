@@ -1,0 +1,8 @@
+@Elmicapo ➜ /workspaces/programadores-para-la-paz/Semana9 (main) $ node server.js
+Servidor ejecutándose en puerto 3000
+
+Cuando visito la ruta me aparece este mensaje "Servidor activo y funcionando"
+
+Cuando visito la ruta /estado, me aprece esto en la terminal:
+@Elmicapo ➜ /workspaces/programadores-para-la-paz/Semana9 (main) $ curl http://localhost:3000/estado
+{"estado":"Servidor funcionando","servicio":"API comunitaria"}
