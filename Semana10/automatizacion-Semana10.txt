@@ -1,0 +1,10 @@
+Evento que activa el flujo:
+Cuando un caso cambia de estado a urgente porque necesita atención inmediata.
+
+Mensaje que se enviaría a Telegram:
+"Hay un caso marcado como urgente. Por favor, revisa la plataforma y asígnalo a un responsable lo antes posible."
+
+Qué información no debería enviarse por seguridad?
+No se deben compartir fotografías de las personas involucradas, la ubicación exacta del caso, información personal de quien hizo el reporte ni archivos confidenciales. 
+Esa información debe permanecer protegida dentro de la plataforma y solo ser accesible 
+para los usuarios autorizados.

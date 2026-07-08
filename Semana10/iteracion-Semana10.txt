@@ -1,0 +1,22 @@
+¿Qué 2 tareas del backlog harías primero?
+Realizara estas dos tareas de primero:
+- Como líder comunitario quiero poder visualizar un tablero que me permita ver las problemáticas más frecuentes para 
+identificar cuáles requieren atención inmediata y planificar acciones.
+- Como integrante de la veeduría quiero clasificar los casos por nivel de urgencia para atender primero los que generan 
+mayor impacto en la comunidad.
+
+¿Por qué son las más importantes?
+Estas tareas son las más importantes porque permiten organizar y priorizar la información desde el inicio del proyecto. 
+Contar con un tablero de visualización y una clasificación por niveles de urgencia facilita la toma de decisiones, 
+optimiza el uso de los recursos disponibles y ayuda a responder más rápidamente a las necesidades de la comunidad.
+
+¿Qué significa para ti que una tarea esté “terminada”?
+Una tarea está terminada cuando cumple con los requisitos definidos, funciona correctamente y puede ser utilizada por los 
+usuarios sin inconvenientes.
+
+Definición simple de terminado
+
+La funcionalidad fue desarrollada y funciona correctamente.
+Fue probada y no presenta errores importantes.
+Quedó documentada y registrada en Git.
+Cumple con los requisitos establecidos en la historia de usuario.

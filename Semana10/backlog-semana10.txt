@@ -1,0 +1,18 @@
+Historias de usuario (ordenadas de mayor a menor prioridad)
+
+1. Como líder comunitario quiero poder visualizar un tablero que me permita ver 
+las problemáticas más frecuentes para asi poder identificar cuáles requieren 
+atención inmediata y planificar acciones.
+
+2. Como integrante de la veeduría quiero clasificar los casos por nivel de urgencia
+para asi poder atender primero los que generan mayor impacto en la comunidad.
+
+3. Como administrador del sistema quiero generar reportes mensuales de las actividades 
+realizadas para asi presentar resultados claros y transparentes a la comunidad.
+
+4. Como voluntario quiero recibir recordatorios automáticos de las reuniones y 
+actividades programadas para mejorar la participación y reducir olvidos.
+
+5. Como representante de la comunidad quiero consultar estadísticas de los casos
+resueltos y pendientes para evaluar el desempeño del equipo de veeduría y 
+tomar mejores decisiones.

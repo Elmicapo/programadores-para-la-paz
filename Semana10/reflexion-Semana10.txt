@@ -1,0 +1,8 @@
+Pienso que las metodologías ágiles ayudan a que un equipo se organice mejor porque nos permiten trabajar paso a paso y 
+darle prioridad a las tareas más importantes. Además, facilitan hacer cambios cuando es necesario sin afectar todo el proyecto.
+La automatización también es útil porque ahorra tiempo en actividades repetitivas, como enviar avisos o recordatorios. 
+Herramientas como Telegram hacen que la comunicación sea más rápida entre los integrantes del equipo. De esta forma, 
+todos pueden estar informados sobre lo que sucede y responder con mayor rapidez. Sin embargo, es importante usar estas 
+herramientas de manera responsable y no depender completamente de ellas. También se debe proteger la información personal
+de las personas que participan en la comunidad. En general, combinar metodologías ágiles, automatización y una buena 
+comunicación permite que los procesos de participación ciudadana sean más organizados, eficientes y transparentes.
