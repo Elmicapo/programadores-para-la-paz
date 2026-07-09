@@ -1,0 +1,31 @@
+Entidad: Incidencia   
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- categoria
+- fecha_registro
+-nivel_urgencia
+-estado
+
+Propósito:
+Guardar la información de las problemáticas o situaciones reportadas por la comunidad para facilitar su organización,
+seguimiento y priorización.
+
+
+
+Entidad: seguimiento
+
+Campos principales:
+- id
+- id_incidencia
+- responsable
+- observaciones
+- fecha_actualizacion
+- estado
+
+
+Propósito:
+Registrar las acciones realizadas sobre cada incidencia, los avances obtenidos y las actualizaciones del caso para 
+llevar un control del proceso hasta su cierre.

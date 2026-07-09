@@ -1,0 +1,10 @@
+La interfaz de la plataforma sería sencilla y fácil de usar para cualquier persona de la comunidad. En la parte superior
+tendría un formulario para crear una nueva incidencia, donde el usuario pueda escribir el título, la descripción y s
+eleccionar la categoría del problema.
+
+Debajo del formulario aparecería una lista con todas las incidencias registradas, mostrando información como el título, 
+una breve descripción, la fecha y el estado de cada una. Cada incidencia tendría un botón para indicar apoyo a la iniciativa
+o problemática y un contador que muestre cuántas personas la respaldan.
+
+La plataforma tendría un diseño claro y organizado, mostrando únicamente la información necesaria y evitando exponer datos
+ personales o privados de los usuarios.

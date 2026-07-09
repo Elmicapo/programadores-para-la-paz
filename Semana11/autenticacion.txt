@@ -1,0 +1,11 @@
+El login es una parte fundamental de una aplicación, ya que permite validar que los usuarios que ingresan realmente 
+pertenecen a la plataforma o cuentan con autorización para acceder. De esta manera, se evita que personas no autorizadas 
+puedan ingresar y acceder a información privada. Además, el login permite identificar a cada usuario y controlar a qué 
+funciones o recursos puede acceder dentro de la aplicación.
+
+Algunas rutas deben estar protegidas porque pueden contener información sensible o confidencial, y si cualquier persona 
+pudiera acceder a ellas, se pondría en riesgo la privacidad de los usuarios y la seguridad de la aplicación. También 
+pueden incluir funciones internas que solo deben estar disponibles para administradores o usuarios autorizados.
+
+La información que no se debería exponer públicamente incluye contraseñas, documentos de identidad, tokens, claves de API,
+números de tarjetas, direcciones y cualquier otro dato sensible de los usuarios o de la comunidad.
