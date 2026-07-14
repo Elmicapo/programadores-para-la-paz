@@ -1,0 +1,9 @@
+Durante este curso aprendí que la tecnología puede ser una gran herramienta para fortalecer la participación ciudadana y 
+apoyar la organización de las comunidades. También entendí que una plataforma no solo debe funcionar bien, sino que debe 
+ser segura y proteger la información de las personas. Aprendí la importancia de utilizar bases de datos para organizar la 
+información y hacer seguimiento a las peticiones o reportes. Además, comprendí que la autenticación de usuarios ayuda a 
+controlar quién puede acceder a ciertas funciones. Otro aprendizaje importante fue el uso de herramientas como n8n y 
+Telegram para automatizar tareas y mejorar la comunicación. También conocí la utilidad de metodologías ágiles para organizar 
+el trabajo en equipo y desarrollar proyectos de forma más eficiente. En general, este curso me permitió comprender que la 
+tecnología puede generar un impacto social positivo cuando se diseña pensando en las necesidades de la comunidad y en el 
+bienestar de las personas.

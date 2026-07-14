@@ -1,0 +1,7 @@
+1. El usuario ingresa a la plataforma e inicia sesión con su cuenta
+2. Selecciona la opción para crear una nueva petición y completa la información que se le solicita
+3. La plataforma guarda la petición y la pública para que los demás miembros de la comunidad puedan verla
+4. Los usuarios interesados pueden responder a la petición y dejar un comentario si desean o si es necesario
+5. El sistema actualiza automaticamente el número de apoyos y el estado de la petición
+6. Cuando la petición alcanza la cantidad de apoyo definida, la plataforma genera un documento con toda la información 
+recopilada para presentarsela ante la entidad que corresponda

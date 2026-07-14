@@ -1,0 +1,11 @@
+Evento que activa la automatización:
+Cuando una persona alcanza la cantidad mínimo de paoyo requerida, establecida en la plataforma
+
+Mensaje que se envia:
+"La petición ha alcanzado el número de apoyo requerido y esta lista para ser revisada por el equipo encargado"
+
+Información que no debe enviarse por seguridad:
+No se deben compartir nombres completos de los participantes, documentos de identidad, correos electrónicos, direcciones, 
+contraseñas ni cualquier otra información privada que pueda poner en riesgo a los usuarios.No se deben compartir nombres 
+completos de los participantes, documentos de identidad, correos electrónicos, direcciones, contraseñas ni cualquier otra 
+información privada que pueda poner en riesgo a los usuarios. 

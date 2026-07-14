@@ -1,0 +1,26 @@
+Entidad: Petición
+
+Campos principales:
+-id_petición
+-nombre_petición
+- Objetivo
+- Fecha_publicación
+- estado
+
+¿Para qué sirve?
+Esta permite almacenar cada petición creada por la comunidad, indicando su objetivo, la fecha en la cual se pública y el
+estado en el que se enuentra (activa,en revisión o finalizada)
+
+_________________________________________________________________________________________________________________________
+Entidad: Firmante
+
+Campos principales:
+- Id_firmante
+- petición_id
+- alias
+- fecha registro
+- medio_apoyo
+
+¿Para qué sirve?
+Guarda el registro de la personas que respaldan una petición, relacionando cada apoyo con la petición correspondiente
+para conocer el nivel de participación de la comunidad.
